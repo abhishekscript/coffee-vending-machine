@@ -10,7 +10,7 @@
     ├── controllers               # Controllers ( business logic )
     ├── models                    # All Class Based Entities
     ├── services                  # Services Communicating
-    ├── test                      # Test Case Files
+    ├── tests                      # Test Case Files
     ├── main.py                   # Main Method ( driver code ) 
     ├── test.py                   # 1 Stub with 4 testcase ( mocking execution )
     └── README.md                 # General Info
